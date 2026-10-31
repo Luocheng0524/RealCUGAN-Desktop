@@ -1,0 +1,3 @@
+#pragma once
+// 构建时生成；请只编辑 source/VERSION。
+#define RCG_VERSION_WIDE L"@RCG_VERSION@"

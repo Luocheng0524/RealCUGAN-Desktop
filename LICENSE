@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2022 Alex
 Copyright (c) 2026 洛橙
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,3 +20,36 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+Scope and third-party notices
+-------------------------------------------------------------------------------
+
+This MIT license applies to this project's desktop-application source code
+and accompanying software documentation, including additions and modifications
+provided under this license. The Alex notice above is retained for code derived
+from hanFengSan/realcugan-ncnn-webassembly:
+https://github.com/hanFengSan/realcugan-ncnn-webassembly
+
+Third-party components, model files, bundled upstream source code, and runtime
+components retain their respective copyrights and licenses. Their license
+terms are not replaced by this file. See licenses/THIRD_PARTY_NOTICES.txt and the copyright and license
+notices included in the relevant source directories.
+
+In particular, consult the included notices for Real-CUGAN model files, ncnn
+and its embedded components, fmt, glslang and its embedded components, Vulkan
+Headers, and GCC/MinGW runtime components. Preserve those notices when
+redistributing the corresponding components.
+
+Separately supplied artwork, demonstration images, trademarks, and datasets
+are covered only by their own explicit permissions, if any.
+
+中文范围说明
+
+本 MIT 许可适用于本项目按此许可发布的桌面应用源码及配套软件文档，
+包括新增和修改部分。保留 Alex 的原始署名，用于说明继承自
+hanFengSan/realcugan-ncnn-webassembly 的代码来源。
+
+第三方组件、模型、随包上游源码和运行库保留各自的版权与许可。
+具体条款见 licenses 目录及对应源码中的原始声明，本文件不替代这些条款。
+单独提供的作品、演示图片、商标和数据集，按其各自明确授权使用。
